@@ -2,7 +2,9 @@
 C library with useful functions
 
 ### Installation
-`git clone https://github.com/F1orin/libft.git && cd libft && make`Compile with `-L./libft/ -lft`
+`git clone https://github.com/F1orin/libft.git && cd libft && make`
+
+Compile with `-L./libft/ -lft`
 
 ### List of functions
 ##### Memory management
