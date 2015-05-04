@@ -1,5 +1,5 @@
 # libft
-C library with useful functions
+A custom C library with useful functions
 
 ### Installation
 `git clone https://github.com/F1orin/libft.git && cd libft && make`
