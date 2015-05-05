@@ -6,7 +6,7 @@
 /*   By: fbicher <fbicher@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/28 11:48:38 by fbicher           #+#    #+#             */
-/*   Updated: 2014/12/28 17:09:21 by fbicher          ###   ########.fr       */
+/*   Updated: 2015/05/05 18:57:20 by fbicher          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -66,6 +66,6 @@ char			**ft_strsplit(char const *s, char c)
 			break ;
 		i++;
 	}
-	tab[i] = '\0';
+	tab[i] = 0;
 	return (tab);
 }
